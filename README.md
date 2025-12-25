@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Ghanu Baria
 
-<!--
-**Ghanshyam015/Ghanshyam015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | Backend & Web Development  
+💻 Learning • Building • Improving Every Day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Web & Backend Projects**
+- 🌱 Learning **Node.js, React, MongoDB, Cloud & Security**
+- 👨‍💻 Interested in **Backend Development & Freelancing**
+- 🎯 Goal: Become a **successful backend developer**
+- 🇮🇳 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript  
+- Python  
+- Java  
+- VB .NET  
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- React.js  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+
+### 🗄️ Database
+- MongoDB  
+- MySQL  
+- MS Access  
+
+### ☁️ Tools & Platforms
+- Git & GitHub  
+- Firebase  
+- Cloudinary  
+- AWS (Basics)
+
+---
+
+## 📂 Projects
+
+- 🔐 **Authentication System** (Login / Register / Google Auth)
+- 🎓 **Online Course Platform** (Payment + Access Control)
+- 📚 **Library Management System**
+- 🛒 **Task-based Earning Website**
+- 🤖 **Automation & Bots (Chrome Extension)**
+
+> 👉 More projects coming soon…
+
+--
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: your-email@gmail.com  
+- 🌐 Portfolio: Coming Soon  
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
