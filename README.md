@@ -1,27 +1,20 @@
 # 👋 Hi, I'm Ghanu Baria
 
 🚀 Passionate Developer | Backend & Web Development  
-💻 Learning • Building • Improving Every Day  
 
----
-
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Web & Backend Projects**
-- 🌱 Learning **Node.js, React, MongoDB, Cloud & Security**
-- 👨‍💻 Interested in **Backend Development & Freelancing**
-- 🎯 Goal: Become a **successful backend developer**
 - 🇮🇳 Based in India
-
----
-
-## 🛠️ Tech Stack
 
 ### 💻 Languages
 - JavaScript  
 - Python  
-- Java  
-- VB .NET  
+- VB .NET
+- Php
+- C
+- C++
+  
 
 ### 🌐 Frontend
 - HTML5  
@@ -36,8 +29,6 @@
 
 ### 🗄️ Database
 - MongoDB  
-- MySQL  
-- MS Access  
 
 ### ☁️ Tools & Platforms
 - Git & GitHub  
@@ -45,7 +36,6 @@
 - Cloudinary  
 - AWS (Basics)
 
----
 
 ## 📂 Projects
 
@@ -62,9 +52,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/YOUR_USERNAME  
-- 📧 Email: your-email@gmail.com  
-- 🌐 Portfolio: Coming Soon  
+- 💼 GitHub: https://github.com/Ghanshyam015
+- 📧 Email: bariaghanshyam015@gmail.com
 
 ---
 
